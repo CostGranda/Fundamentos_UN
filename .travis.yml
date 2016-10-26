@@ -3,4 +3,4 @@ python:
   - "2.7"
   - "3.3"
   - "3.5"
-script: python 8-03.py
+script: python 8-03.py 8-04.py
