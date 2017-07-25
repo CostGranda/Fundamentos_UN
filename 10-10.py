@@ -7,5 +7,5 @@ Created on Sat May  7 17:14:41 2016
 
 matriz = eval(input())
 for i in range(len(matriz)):
-        if (matriz[i][1]>40):
-            print(matriz[i][0])
+    if (matriz[i][1]>40):
+        print(matriz[i][0])
